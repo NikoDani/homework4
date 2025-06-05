@@ -35,7 +35,7 @@ function App(){
       <hr />
 
       
-      <h2>Theme Toggle</h2>
+      <h2>Dark or white</h2>
       <button className="btn" onClick={() => setIsDark(!isDark)}>
         Change to {isDark ?'Light' :
         'Dark'} Mode
