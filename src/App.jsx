@@ -21,7 +21,7 @@ function App(){
       <input
         className="input"
         type="text"
-        placeholder="Write something..."
+        placeholder="chawere rac ginda"
         value={todoInput}
         onChange={(e) => setTodoInput(e.target.value)}
         onKeyDown={(e) => {
